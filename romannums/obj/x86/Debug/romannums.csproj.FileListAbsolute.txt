@@ -1,0 +1,5 @@
+C:\Users\Alan\Desktop\C #\romannums\romannums\bin\Debug\romannums.exe
+C:\Users\Alan\Desktop\C #\romannums\romannums\bin\Debug\romannums.pdb
+C:\Users\Alan\Desktop\C #\romannums\romannums\obj\x86\Debug\romannums.exe
+C:\Users\Alan\Desktop\C #\romannums\romannums\obj\x86\Debug\romannums.pdb
+C:\Users\Alan\Desktop\C #\romannums\romannums\obj\x86\Debug\romannums.csprojResolveAssemblyReference.cache
